@@ -4,3 +4,14 @@ git commit -m "msg" faz commit do que estava para se
 git add nome_arquivo -> adiciona arquivo para ser commitado
 git log  -> mostra todo o histórico de commit
 
+## FLUXO DE TRABALHO
+1.CRIAR O DIRETÓRIO DO PROJETO.
+2.INICIAR O GIT DENTRO DO DIRETÓRIO (git init .)
+3.EDITA OU CRIA ARQUIVOS
+4.GIT STATUS
+5.GIT ADD <NOME DO ARQUIVO>
+6.GIT STATUS
+7.GIT COMMIT -M "MENSAGEM"
+8.GIT STATUS
+9.VOLTA PARA O PASSO 3.
+
