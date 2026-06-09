@@ -12,5 +12,5 @@ Confira tudo o que temos no nosso youtube. É grátis!
 
 Pessoas participantes:
 
-* Téo
+&#x20;- - Téo
 
